@@ -6,3 +6,9 @@ AutoOffsets is a software that automatically get the lastest offsets of Fortnite
     <img src="https://cdn.discordapp.com/attachments/931603773627977789/945400989412884480/unknown.png"/>
     <img src="https://cdn.discordapp.com/attachments/931603773627977789/945400930864623636/unknown.png"/>
 </div>
+
+# API USAGE
+
+```js
+  https://fortnitereversal.xyz/index?apikey=d41d8cd98f00b204e9800998ecf8427e&offset_class=???
+```
