@@ -9,6 +9,11 @@ AutoOffsets is a software that automatically get the lastest offsets of Fortnite
 
 # API USAGE
 
-```js
-  https://fortnitereversal.xyz/index?apikey=d41d8cd98f00b204e9800998ecf8427e&offset_class=???
+```lua
+local Response = syn.request({
+    Url = "https://fortnitereversal.xyz/index?apikey=d41d8cd98f00b204e9800998ecf8427e&offset_class=???",
+    Method = "GET"
+})
+
+print(Response.Body)
 ```
